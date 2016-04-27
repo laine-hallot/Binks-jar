@@ -9,4 +9,4 @@ You could probably play any .au file as long as it is called meesa.au or you cha
 
 
 
-Honestly do what ever you want with this code I don't give shit. It's trash code for a trash program idea. 
+Honestly do whatever you want with this code I don't give shit. It's trash code for a trash program idea. 
