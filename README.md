@@ -1,4 +1,8 @@
 # Binks
+
+For those of you who are to lazy to compile it or don't know how- 
+http://www.mediafire.com/download/a3trh7g43pksc8y/Binks.zip
+
 For our lord binks
 
 Inspired by this guys post- 
