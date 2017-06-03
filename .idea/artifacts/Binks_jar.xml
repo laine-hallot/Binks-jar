@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="Binks:jar">
-    <output-path>$PROJECT_DIR$/Out/artifacts/Binks_jar</output-path>
-    <root id="archive" name="Binks.jar">
-      <element id="module-output" name="Binks" />
-    </root>
-  </artifact>
-</component>
