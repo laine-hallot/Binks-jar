@@ -4,7 +4,7 @@ public class Binks{
 	public static void main(String[] args){
         Timer timer = new Timer();
         JFrame frame = new JFrame("Jar Jar");
-        ImageIcon icon = new ImageIcon("JarJarBinks/jarjar.jpg");
+        ImageIcon icon = new ImageIcon("resources/jarjar.jpg");
         JLabel label = new JLabel(icon);
 		timer.start();
 

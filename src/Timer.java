@@ -20,9 +20,8 @@ public class Timer extends Thread{
         System.out.println(all.format(cal.getTime()));
 		while (true){
 
-			//System.out.println(date.getHours() +":"+date.getMinutes());
 			if (Integer.toString(c).equals(hour.format(cal.getTime())) && Integer.toString(i).equals(min.format(cal.getTime())) ){
-                utils.playSound("JarJarBinks/meesa.au");
+                utils.playSound("resources/meesa.au");
 				try {
 					Thread.sleep(500); //to prevent the sound from being played twice a the same time if the same number is picked.
 				} catch (InterruptedException e) {

@@ -10,7 +10,6 @@ import java.util.Random;
  * Created by meyerhallot on 6/2/17.
  */
 public class BinksUtils {
-    int randomNum;
 
     void playSound(String Meesa){
         InputStream in = null;
