@@ -17,7 +17,6 @@ public class Timer extends Thread{
 		int i = utils.randInt(0, 60); //chooses a random minute
 
 		while (true){
-
 			if (Integer.toString(c).equals(hour.format(cal.getTime())) && Integer.toString(i).equals(min.format(cal.getTime())) ){
                 utils.playSound("resources/meesa.au");
 				try {
