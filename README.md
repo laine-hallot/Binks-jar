@@ -1,7 +1,7 @@
 # Binks.jar
 
 For those of you who are to lazy to compile it or don't know how- 
-http://www.mediafire.com/download/a3trh7g43pksc8y/Binks.zip
+http://www.mediafire.com/file/qh7q88os8d71rqg/Binks.zip
 
 
 Inspired by this guys post- 
