@@ -3,14 +3,11 @@
 For those of you who are to lazy to compile it or don't know how- 
 http://www.mediafire.com/download/a3trh7g43pksc8y/Binks.zip
 
-For our lord binks
 
 Inspired by this guys post- 
 https://www.reddit.com/r/AskReddit/comments/42u3ed/youve_just_written_the_most_annoying_computer/czdbk0b?context=3
 
-This program runs in the background with no visible window. It will play a loud sound clip of jar jar binks saying "Meesa" at random times.
-You could probably play any .au file as long as it is called meesa.au or you change the name of the target file in the code. 
+This program creates a window with Jarjar Binks' face and runs a timer in the background. When this timer is done the program will play a loud sound clip of jar jar binks saying "Meesa" and then start a new timer. These timers continue running even when the widow is closed. The window is intend to be a distraction. 
 
 
-
-Honestly do whatever you want with this code I don't care. It's trash code for a trash program idea. 
+Honestly do whatever you want with this program. Just don't blame me. 
