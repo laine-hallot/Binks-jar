@@ -15,9 +15,7 @@ public class Timer extends Thread{
 
 		int c = utils.randInt(0, 23); //chooses a random hour
 		int i = utils.randInt(0, 60); //chooses a random minute
-		
-		System.out.println(c+":"+i);
-        System.out.println(all.format(cal.getTime()));
+
 		while (true){
 
 			if (Integer.toString(c).equals(hour.format(cal.getTime())) && Integer.toString(i).equals(min.format(cal.getTime())) ){
@@ -30,7 +28,6 @@ public class Timer extends Thread{
 				}
 				c = utils.randInt(0, 23); //chooses a new random hour
                 i = utils.randInt(0, 60); //chooses a new random minute
-                System.out.println(c+":"+i);
 			}
 		}
 	}

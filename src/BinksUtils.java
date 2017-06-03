@@ -21,7 +21,6 @@ public class BinksUtils {
             System.out.println("Error");
         }
         AudioPlayer.player.start(audio);
-        System.out.println("Sound Played");
     }
     public int randInt(int min, int max) {
         Random rand = new Random();
